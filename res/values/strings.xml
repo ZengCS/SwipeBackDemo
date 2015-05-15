@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">滑动关闭</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_swipe_fragment">SwipeFragmentActivity</string>
+    <string name="title_bottom_fragment">This is BottomFragment</string>
+    <string name="title_content_fragment">This is ContentFragment</string>
+
+</resources>

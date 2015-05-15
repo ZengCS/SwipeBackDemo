@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    android:padding="5dip" >
+
+    <Button
+        android:id="@+id/simple_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="简单的Activity" />
+
+    <Button
+        android:id="@+id/absListview_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="带ListView的Activity" />
+
+    <Button
+        android:id="@+id/scrollview_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="带ScrollView的Activity" />
+
+    <Button
+        android:id="@+id/viewpager_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="带ViewPager的Activity" />
+
+    <Button
+        android:id="@+id/fragment_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FragmentActivity" />
+
+</LinearLayout>
